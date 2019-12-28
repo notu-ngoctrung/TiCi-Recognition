@@ -1,0 +1,35 @@
+﻿<Window x:Class="TiCi_Recognition.Login"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TiCi_Recognition"
+        mc:Ignorable="d"
+        Title="Login" Height="690" Width="388.75" AllowsTransparency="True" WindowStyle="None" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" Opacity="70" StartPoint="0.5,0">
+                <LinearGradientBrush.RelativeTransform>
+                    <TransformGroup>
+                        <ScaleTransform CenterY="0.5" CenterX="0.5"/>
+                        <SkewTransform CenterY="0.5" CenterX="0.5"/>
+                        <RotateTransform Angle="90" CenterY="0.5" CenterX="0.5"/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </LinearGradientBrush.RelativeTransform>
+                <GradientStop Color="#FFAAE238"/>
+                <GradientStop Color="#FF2AD39B" Offset="1"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Image x:Name="image" HorizontalAlignment="Left" Height="499" VerticalAlignment="Top" Width="499" Source="/Image/FadedCircle.png" Margin="-55,-120,-55,0"/>
+        <Image x:Name="LogoImg" HorizontalAlignment="Center" Height="152" Margin="119,58,118,0" VerticalAlignment="Top" Width="152" Source="/Image/Logo.png" RenderOptions.BitmapScalingMode="HighQuality" Opacity="0.9"/>
+        <Label x:Name="label" Content="TICI RECOGNITION" HorizontalAlignment="Center" Height="37" Margin="96,251,97,0" VerticalAlignment="Top" Width="196" FontWeight="Bold" FontFamily="Open Sans" FontSize="20" Foreground="White"/>
+        <Label x:Name="label1" Content="Hệ thống điểm danh học sinh tự động" HorizontalAlignment="Center" Height="37" Margin="65,288,65,0" VerticalAlignment="Top" Width="259" FontFamily="Open Sans" FontSize="14" Foreground="White"/>
+        <Label x:Name="label2" Content="Nhập mật khẩu" HorizontalAlignment="Center" Height="35" VerticalAlignment="Top" Width="114" Foreground="White" FontSize="15" Margin="138,402,137,0"/>
+        <PasswordBox x:Name="passwordBox" HorizontalAlignment="Center" Height="43" Margin="65,436,65,0" VerticalAlignment="Top" Width="259" FontSize="15"/>
+        <Button x:Name="Reg" Content="Đăng ký cho lần đầu" HorizontalAlignment="Left" Height="41" Margin="23,639,0,0" VerticalAlignment="Top" Width="180" FontFamily="Open Sans" FontSize="15" Click="Reg_Click"/>
+        <Button x:Name="Forgot" Content="Quên mật khẩu?" HorizontalAlignment="Left" Height="41" Margin="208,639,0,0" VerticalAlignment="Top" Width="153" FontFamily="Open Sans" FontSize="15" Click="Forgot_Click"/>
+        <Button x:Name="Confirm" Content="Xác nhận" HorizontalAlignment="Left" Height="52" Margin="133,522,0,0" VerticalAlignment="Top" Width="128" FontFamily="Open Sans" FontSize="17" Background="{x:Null}" BorderBrush="White" Foreground="White" Click="Confirm_Click"/>
+        <Label x:Name="label3" HorizontalAlignment="Left" Height="35" Margin="65,590,0,0" VerticalAlignment="Top" Width="259" FontSize="14" FontFamily="Open Sans" Foreground="#FFB20F0F"/>
+    </Grid>
+</Window>

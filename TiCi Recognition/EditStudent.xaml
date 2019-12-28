@@ -1,0 +1,29 @@
+﻿<Window x:Class="TiCi_Recognition.EditStudent"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TiCi_Recognition"
+        mc:Ignorable="d"
+        Title="EditStudent" Height="680" Width="980">
+    <Grid>
+        <Label x:Name="Search" Content="Tìm kiếm" HorizontalAlignment="Left" Height="42" Margin="9,21,0,0" VerticalAlignment="Top" Width="157" FontFamily="Open Sans" FontSize="20" Foreground="#FF424242" BorderBrush="{DynamicResource SubButton}" BorderThickness="4,0,0,0" Padding="10,5,5,5"/>
+        <TextBox x:Name="SearchBox" HorizontalAlignment="Left" Height="44" Margin="142,82,0,0" TextWrapping="Wrap" Text="(nhập mã số học sinh)" VerticalAlignment="Top" Width="344" FontSize="16" FontFamily="Open Sans" Padding="0,0,0,6" GotFocus="SearchBox_GotFocus"/>
+        <Button x:Name="SearchButton" Content="Tìm" HorizontalAlignment="Left" Height="44" Margin="519,72,0,0" VerticalAlignment="Top" Width="81" Background="{DynamicResource Gradient}" FontFamily="Open Sans" FontSize="16" BorderThickness="0" Click="SearchButton_Click"/>
+        <Label x:Name="Content" Content="Thông tin học sinh" HorizontalAlignment="Left" Height="42" Margin="9,144,0,0" VerticalAlignment="Top" Width="204" FontFamily="Open Sans" FontSize="20" Foreground="#FF424242" BorderBrush="{DynamicResource SubButton}" BorderThickness="4,0,0,0" Padding="10,5,5,5"/>
+        <Label x:Name="AddLabel1" Content="Họ và tên đệm:" HorizontalAlignment="Left" Height="57" Margin="28,199,0,0" VerticalAlignment="Top" Width="226" FontFamily="Open Sans" FontSize="16" Padding="5,15,5,5"/>
+        <Label x:Name="AddLabel2" Content="Tên học sinh:" HorizontalAlignment="Left" Height="57" Margin="28,266,0,0" VerticalAlignment="Top" Width="226" FontFamily="Open Sans" FontSize="16" Padding="5,15,5,5"/>
+        <Label x:Name="AddLabel3" Content="Lớp:" HorizontalAlignment="Left" Height="57" Margin="28,341,0,0" VerticalAlignment="Top" Width="226" FontFamily="Open Sans" FontSize="16" Padding="5,15,5,5"/>
+        <Label x:Name="AddLabel4" Content="Giới tính:" HorizontalAlignment="Left" Height="57" Margin="28,427,0,-15" VerticalAlignment="Top" Width="226" FontFamily="Open Sans" FontSize="16" Padding="5,15,5,5"/>
+        <Label x:Name="AddLabel5" Content="Thư mục chứa hình ảnh:" HorizontalAlignment="Left" Height="60" Margin="26,503,0,0" VerticalAlignment="Top" Width="226" FontFamily="Open Sans" FontSize="16" Padding="5,15,5,5"/>
+        <TextBox x:Name="AddBox1" HorizontalAlignment="Left" Height="44" Margin="254,213,0,0" TextWrapping="Wrap" Text="(trống)" VerticalAlignment="Top" Width="578" FontSize="16" FontFamily="Open Sans" Padding="0,0,0,6"/>
+        <TextBox x:Name="AddBox2" HorizontalAlignment="Left" Height="44" Margin="254,280,0,0" TextWrapping="Wrap" Text="(trống)" VerticalAlignment="Top" Width="578" FontSize="16" FontFamily="Open Sans" Padding="0,0,0,6"/>
+        <TextBlock x:Name="AddBox5" HorizontalAlignment="Left" Height="44" Margin="254,503,0,0" TextWrapping="Wrap" Text="(đường dẫn trống)" VerticalAlignment="Top" Width="578" FontFamily="Open Sans" FontSize="16" Padding="5,15,5,5"/>
+        <Button x:Name="RemoveButton" Content="Xóa học sinh" HorizontalAlignment="Left" Height="53" Margin="519,586,0,0" VerticalAlignment="Top" Width="131" Background="{DynamicResource Gradient}" FontFamily="Open Sans" FontSize="16" BorderThickness="0" Click="RemoveButton_Click"/>
+        <Button x:Name="EditButton" Content="Xác nhận chỉnh sửa" HorizontalAlignment="Left" Height="53" Margin="675,586,0,0" VerticalAlignment="Top" Width="178" Background="{DynamicResource Gradient}" FontFamily="Open Sans" FontSize="16" BorderThickness="0" Click="EditButton_Click"/>
+        <TextBox x:Name="AddBox3" HorizontalAlignment="Left" Height="44" Margin="254,355,0,0" TextWrapping="Wrap" Text="(trống)" VerticalAlignment="Top" Width="578" FontSize="16" FontFamily="Open Sans" Padding="0,0,0,6"/>
+        <TextBox x:Name="AddBox4" HorizontalAlignment="Left" Height="44" Margin="254,441,0,0" TextWrapping="Wrap" Text="(trống)" VerticalAlignment="Top" Width="578" FontSize="16" FontFamily="Open Sans" Padding="0,0,0,6"/>
+        <Button x:Name="AddBox5_Button" Content="Chọn" HorizontalAlignment="Left" Height="43" Margin="876,508,0,0" VerticalAlignment="Top" Width="80" Background="{DynamicResource Gradient}" FontFamily="Open Sans" FontSize="16" BorderThickness="0" Click="AddBox5_Button_Click"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,56 @@
+P:\KHKT\Sanpham\Ver_2\TiCi Recognition\TiCi Recognition\bin\x86\Debug\TiCi Recognition.exe.config
+P:\KHKT\Sanpham\Ver_2\TiCi Recognition\TiCi Recognition\bin\x86\Debug\TiCi Recognition.exe
+P:\KHKT\Sanpham\Ver_2\TiCi Recognition\TiCi Recognition\bin\x86\Debug\TiCi Recognition.pdb
+P:\KHKT\Sanpham\Ver_2\TiCi Recognition\TiCi Recognition\bin\x86\Debug\Emgu.CV.UI.dll
+P:\KHKT\Sanpham\Ver_2\TiCi Recognition\TiCi Recognition\bin\x86\Debug\Emgu.CV.UI.GL.dll
+P:\KHKT\Sanpham\Ver_2\TiCi Recognition\TiCi Recognition\bin\x86\Debug\Emgu.CV.World.dll
+P:\KHKT\Sanpham\Ver_2\TiCi Recognition\TiCi Recognition\bin\x86\Debug\LiveCharts.dll
+P:\KHKT\Sanpham\Ver_2\TiCi Recognition\TiCi Recognition\bin\x86\Debug\LiveCharts.Wpf.dll
+P:\KHKT\Sanpham\Ver_2\TiCi Recognition\TiCi Recognition\bin\x86\Debug\MaterialDesignColors.dll
+P:\KHKT\Sanpham\Ver_2\TiCi Recognition\TiCi Recognition\bin\x86\Debug\MaterialDesignThemes.Wpf.dll
+P:\KHKT\Sanpham\Ver_2\TiCi Recognition\TiCi Recognition\bin\x86\Debug\ZedGraph.dll
+P:\KHKT\Sanpham\Ver_2\TiCi Recognition\TiCi Recognition\bin\x86\Debug\Emgu.CV.UI.xml
+P:\KHKT\Sanpham\Ver_2\TiCi Recognition\TiCi Recognition\bin\x86\Debug\Emgu.CV.UI.GL.xml
+P:\KHKT\Sanpham\Ver_2\TiCi Recognition\TiCi Recognition\bin\x86\Debug\Emgu.CV.World.xml
+P:\KHKT\Sanpham\Ver_2\TiCi Recognition\TiCi Recognition\bin\x86\Debug\LiveCharts.pdb
+P:\KHKT\Sanpham\Ver_2\TiCi Recognition\TiCi Recognition\bin\x86\Debug\LiveCharts.xml
+P:\KHKT\Sanpham\Ver_2\TiCi Recognition\TiCi Recognition\bin\x86\Debug\LiveCharts.Wpf.pdb
+P:\KHKT\Sanpham\Ver_2\TiCi Recognition\TiCi Recognition\bin\x86\Debug\LiveCharts.Wpf.xml
+P:\KHKT\Sanpham\Ver_2\TiCi Recognition\TiCi Recognition\bin\x86\Debug\MaterialDesignThemes.Wpf.pdb
+P:\KHKT\Sanpham\Ver_2\TiCi Recognition\TiCi Recognition\bin\x86\Debug\MaterialDesignThemes.Wpf.xml
+P:\KHKT\Sanpham\Ver_2\TiCi Recognition\TiCi Recognition\obj\x86\Debug\MainWindow.g.cs
+P:\KHKT\Sanpham\Ver_2\TiCi Recognition\TiCi Recognition\obj\x86\Debug\App.g.cs
+P:\KHKT\Sanpham\Ver_2\TiCi Recognition\TiCi Recognition\obj\x86\Debug\TiCi Recognition_MarkupCompile.cache
+P:\KHKT\Sanpham\Ver_2\TiCi Recognition\TiCi Recognition\obj\x86\Debug\TiCi Recognition_MarkupCompile.lref
+P:\KHKT\Sanpham\Ver_2\TiCi Recognition\TiCi Recognition\obj\x86\Debug\App.baml
+P:\KHKT\Sanpham\Ver_2\TiCi Recognition\TiCi Recognition\obj\x86\Debug\MainWindow.baml
+P:\KHKT\Sanpham\Ver_2\TiCi Recognition\TiCi Recognition\obj\x86\Debug\TiCi Recognition.g.resources
+P:\KHKT\Sanpham\Ver_2\TiCi Recognition\TiCi Recognition\obj\x86\Debug\TiCi_Recognition.Properties.Resources.resources
+P:\KHKT\Sanpham\Ver_2\TiCi Recognition\TiCi Recognition\obj\x86\Debug\TiCi Recognition.csproj.GenerateResource.Cache
+P:\KHKT\Sanpham\Ver_2\TiCi Recognition\TiCi Recognition\obj\x86\Debug\TiCi Recognition.exe
+P:\KHKT\Sanpham\Ver_2\TiCi Recognition\TiCi Recognition\obj\x86\Debug\TiCi Recognition.pdb
+P:\KHKT\Sanpham\Ver_2\TiCi Recognition\TiCi Recognition\obj\x86\Debug\TiCi Recognition.csprojResolveAssemblyReference.cache
+P:\KHKT\Sanpham\Ver_2\TiCi Recognition\TiCi Recognition\bin\x86\Debug\MediaCaptureWPF.dll
+P:\KHKT\Sanpham\Ver_2\TiCi Recognition\TiCi Recognition\bin\x86\Debug\MediaCaptureWPF.Native.dll
+P:\KHKT\Sanpham\Ver_2\TiCi Recognition\TiCi Recognition\bin\x86\Debug\Microsoft.WindowsAPICodePack.dll
+P:\KHKT\Sanpham\Ver_2\TiCi Recognition\TiCi Recognition\bin\x86\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+P:\KHKT\Sanpham\Ver_2\TiCi Recognition\TiCi Recognition\bin\x86\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+P:\KHKT\Sanpham\Ver_2\TiCi Recognition\TiCi Recognition\bin\x86\Debug\WebCam_Capture.dll
+P:\KHKT\Sanpham\Ver_2\TiCi Recognition\TiCi Recognition\bin\x86\Debug\Microsoft.WindowsAPICodePack.pdb
+P:\KHKT\Sanpham\Ver_2\TiCi Recognition\TiCi Recognition\bin\x86\Debug\Microsoft.WindowsAPICodePack.xml
+P:\KHKT\Sanpham\Ver_2\TiCi Recognition\TiCi Recognition\bin\x86\Debug\Microsoft.WindowsAPICodePack.Shell.pdb
+P:\KHKT\Sanpham\Ver_2\TiCi Recognition\TiCi Recognition\bin\x86\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+P:\KHKT\Sanpham\Ver_2\TiCi Recognition\TiCi Recognition\bin\x86\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.pdb
+P:\KHKT\Sanpham\Ver_2\TiCi Recognition\TiCi Recognition\bin\x86\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.xml
+P:\KHKT\Sanpham\Ver_2\TiCi Recognition\TiCi Recognition\obj\x86\Debug\AddEditClass.g.cs
+P:\KHKT\Sanpham\Ver_2\TiCi Recognition\TiCi Recognition\obj\x86\Debug\EditStudent.g.cs
+P:\KHKT\Sanpham\Ver_2\TiCi Recognition\TiCi Recognition\obj\x86\Debug\ForgotPassword.g.cs
+P:\KHKT\Sanpham\Ver_2\TiCi Recognition\TiCi Recognition\obj\x86\Debug\Login.g.cs
+P:\KHKT\Sanpham\Ver_2\TiCi Recognition\TiCi Recognition\obj\x86\Debug\Register.g.cs
+P:\KHKT\Sanpham\Ver_2\TiCi Recognition\TiCi Recognition\obj\x86\Debug\AddEditClass.baml
+P:\KHKT\Sanpham\Ver_2\TiCi Recognition\TiCi Recognition\obj\x86\Debug\CustomStyle.baml
+P:\KHKT\Sanpham\Ver_2\TiCi Recognition\TiCi Recognition\obj\x86\Debug\EditStudent.baml
+P:\KHKT\Sanpham\Ver_2\TiCi Recognition\TiCi Recognition\obj\x86\Debug\ForgotPassword.baml
+P:\KHKT\Sanpham\Ver_2\TiCi Recognition\TiCi Recognition\obj\x86\Debug\Login.baml
+P:\KHKT\Sanpham\Ver_2\TiCi Recognition\TiCi Recognition\obj\x86\Debug\Register.baml
+P:\KHKT\Sanpham\Ver_2\TiCi Recognition\TiCi Recognition\obj\x86\Debug\TiCi_Recognition.Chuphinh.resources

@@ -1,0 +1,32 @@
+P:\KHKT\Sanpham\Ver_2\TiCi Recognition\TiCi Recognition\bin\x64\Release\TiCi Recognition.exe.config
+P:\KHKT\Sanpham\Ver_2\TiCi Recognition\TiCi Recognition\obj\x64\Release\TiCi Recognition.csprojResolveAssemblyReference.cache
+P:\KHKT\Sanpham\Ver_2\TiCi Recognition\TiCi Recognition\obj\x64\Release\MainWindow.g.cs
+P:\KHKT\Sanpham\Ver_2\TiCi Recognition\TiCi Recognition\obj\x64\Release\App.g.cs
+P:\KHKT\Sanpham\Ver_2\TiCi Recognition\TiCi Recognition\obj\x64\Release\TiCi Recognition_MarkupCompile.cache
+P:\KHKT\Sanpham\Ver_2\TiCi Recognition\TiCi Recognition\obj\x64\Release\TiCi Recognition_MarkupCompile.lref
+P:\KHKT\Sanpham\Ver_2\TiCi Recognition\TiCi Recognition\bin\x64\Release\TiCi Recognition.exe
+P:\KHKT\Sanpham\Ver_2\TiCi Recognition\TiCi Recognition\bin\x64\Release\TiCi Recognition.pdb
+P:\KHKT\Sanpham\Ver_2\TiCi Recognition\TiCi Recognition\bin\x64\Release\Emgu.CV.UI.dll
+P:\KHKT\Sanpham\Ver_2\TiCi Recognition\TiCi Recognition\bin\x64\Release\Emgu.CV.UI.GL.dll
+P:\KHKT\Sanpham\Ver_2\TiCi Recognition\TiCi Recognition\bin\x64\Release\Emgu.CV.World.dll
+P:\KHKT\Sanpham\Ver_2\TiCi Recognition\TiCi Recognition\bin\x64\Release\LiveCharts.dll
+P:\KHKT\Sanpham\Ver_2\TiCi Recognition\TiCi Recognition\bin\x64\Release\LiveCharts.Wpf.dll
+P:\KHKT\Sanpham\Ver_2\TiCi Recognition\TiCi Recognition\bin\x64\Release\MaterialDesignColors.dll
+P:\KHKT\Sanpham\Ver_2\TiCi Recognition\TiCi Recognition\bin\x64\Release\MaterialDesignThemes.Wpf.dll
+P:\KHKT\Sanpham\Ver_2\TiCi Recognition\TiCi Recognition\bin\x64\Release\ZedGraph.dll
+P:\KHKT\Sanpham\Ver_2\TiCi Recognition\TiCi Recognition\bin\x64\Release\Emgu.CV.UI.xml
+P:\KHKT\Sanpham\Ver_2\TiCi Recognition\TiCi Recognition\bin\x64\Release\Emgu.CV.UI.GL.xml
+P:\KHKT\Sanpham\Ver_2\TiCi Recognition\TiCi Recognition\bin\x64\Release\Emgu.CV.World.xml
+P:\KHKT\Sanpham\Ver_2\TiCi Recognition\TiCi Recognition\bin\x64\Release\LiveCharts.pdb
+P:\KHKT\Sanpham\Ver_2\TiCi Recognition\TiCi Recognition\bin\x64\Release\LiveCharts.xml
+P:\KHKT\Sanpham\Ver_2\TiCi Recognition\TiCi Recognition\bin\x64\Release\LiveCharts.Wpf.pdb
+P:\KHKT\Sanpham\Ver_2\TiCi Recognition\TiCi Recognition\bin\x64\Release\LiveCharts.Wpf.xml
+P:\KHKT\Sanpham\Ver_2\TiCi Recognition\TiCi Recognition\bin\x64\Release\MaterialDesignThemes.Wpf.pdb
+P:\KHKT\Sanpham\Ver_2\TiCi Recognition\TiCi Recognition\bin\x64\Release\MaterialDesignThemes.Wpf.xml
+P:\KHKT\Sanpham\Ver_2\TiCi Recognition\TiCi Recognition\obj\x64\Release\App.baml
+P:\KHKT\Sanpham\Ver_2\TiCi Recognition\TiCi Recognition\obj\x64\Release\MainWindow.baml
+P:\KHKT\Sanpham\Ver_2\TiCi Recognition\TiCi Recognition\obj\x64\Release\TiCi Recognition.g.resources
+P:\KHKT\Sanpham\Ver_2\TiCi Recognition\TiCi Recognition\obj\x64\Release\TiCi_Recognition.Properties.Resources.resources
+P:\KHKT\Sanpham\Ver_2\TiCi Recognition\TiCi Recognition\obj\x64\Release\TiCi Recognition.csproj.GenerateResource.Cache
+P:\KHKT\Sanpham\Ver_2\TiCi Recognition\TiCi Recognition\obj\x64\Release\TiCi Recognition.exe
+P:\KHKT\Sanpham\Ver_2\TiCi Recognition\TiCi Recognition\obj\x64\Release\TiCi Recognition.pdb
